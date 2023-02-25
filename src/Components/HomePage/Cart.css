@@ -1,0 +1,51 @@
+#cartimagesizing {
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-top: 15%;
+
+
+    background-color: orange;
+}
+
+#cart {
+    width: 1000px;
+    margin-left: 15%;
+}
+
+#delete {
+    float: right;
+    font-weight: bold;
+
+}
+
+#delete:hover {
+
+    cursor: pointer;
+
+}
+
+#deleteicon {
+    color: red;
+}
+
+
+.home {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#mycart {
+    text-align: center;
+}
+
+#summaryBtn {
+    margin-left: 45%;
+}

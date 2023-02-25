@@ -1,0 +1,176 @@
+.btn {
+    margin-top: 10px;
+
+}
+
+#container1 {
+    margin-left: 40%;
+    margin-top: 10%;
+    width: 50%;
+    color: black;
+
+
+}
+
+/* @media(max-width: 952px) {
+    #container1 {
+        width: 60%;
+    }
+}
+
+@media(max-width: 475px) {
+    #container1 {
+        width: 80%;
+    }
+} */
+
+
+
+#loginbg {
+    width: 1519px;
+    height: 709px;
+    position: fixed;
+}
+
+/* ------------------------------------ */
+
+
+
+#login-cartimagesizing {
+    height: 600px;
+    width: 800px;
+
+    /* margin-left: 10%;
+    margin-right: 5%;
+    margin-top: 15%; */
+
+
+    background-color: orange;
+}
+
+#signup-cartimagesizing {
+    height: 600px;
+    width: 800px;
+
+    /* margin-left: 10%;
+    margin-right: 5%;
+    margin-top: 15%; */
+
+
+    background-color: orange;
+}
+
+#cart {
+    width: 1000px;
+    margin-left: 15%;
+    margin-top: 4%;
+}
+
+#delete {
+    float: right;
+    font-weight: bold;
+
+}
+
+#delete:hover {
+
+    cursor: pointer;
+
+}
+
+#deleteicon {
+    color: red;
+}
+
+
+#search-form {
+    background-color: #ee5d09;
+    width: 300px;
+    height: 44px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    opacity: 0.8;
+}
+
+
+#query {
+    all: unset;
+    font: 16px system-ui;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+}
+
+#query1 {
+    all: unset;
+    font: 16px system-ui;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+}
+
+#query2 {
+    all: unset;
+    font: 16px system-ui;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+}
+
+::placeholder {
+    color: #fff;
+    opacity: 0.7;
+}
+
+#search-button {
+    all: unset;
+    cursor: pointer;
+    width: 44px;
+    height: 64px;
+
+
+
+}
+
+
+.home {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#mycart {
+    text-align: center;
+}
+
+
+#login-form-box {
+    margin-top: 20%;
+    margin-left: 15%;
+
+}
+
+#login-button {
+    margin-left: 30%;
+}
+
+#alink-text {
+    margin-left: 15%;
+}
+
+#alink-stext {
+    margin-left: 12%;
+}
+
+#signup-button {
+    margin-left: 20%;
+}

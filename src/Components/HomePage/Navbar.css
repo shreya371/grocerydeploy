@@ -1,0 +1,56 @@
+#navleft {
+  margin-left: 7%;
+
+
+}
+
+#navright {
+  margin-right: 7%;
+}
+
+
+
+
+.home {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+#myfooter {
+  margin-left: 15%;
+}
+
+#copyright-text {
+  text-align: center;
+  /* font-weight: bold; */
+  color: white;
+}
+
+#bgimg {
+  margin-left: 7%;
+  width: 1300px;
+  height: 350px
+}
+
+#logo {
+  width: 170px;
+  height: 35px;
+  margin-top: 10%;
+
+}
+
+#navlinks {
+  color: #e65100;
+  font-weight: 100;
+  font-size: 20px;
+  font-family: Verdana;
+
+}
+
+
+/* --------------------------------------------------------------------------- */
